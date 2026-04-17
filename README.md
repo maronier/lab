@@ -6,6 +6,8 @@
 
 ```bash
 python main.py <command>
+# или
+python -m main <command>
 ```
 
 Доступные команды:
